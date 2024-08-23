@@ -1,7 +1,7 @@
 # **Dashboard Application**
 
 ## **Overview**
-This project is a responsive dashboard application built using React and Tailwind CSS. 
+This project is a responsive dashboard application built using React and Tailwind CSS.
 
 ## **Features**
 - **Responsive Design**: The dashboard is fully responsive, providing a great experience on both desktop and mobile devices.
@@ -15,14 +15,16 @@ This project is a responsive dashboard application built using React and Tailwin
 
 ## **Installation**
 To get started with the project, follow these steps:
-1. Clone the repository: https://github.com/Dhanashree-narkhede/Frame-2---Task.git.
-2. Install dependencies: npm install node-modules.
-3. Start the development server: npm start
+1. Clone the repository: `https://github.com/Dhanashree-narkhede/Frame-2---Task.git`.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
 
 ## **Project Structure**
 The project's structure is organized as follows:
+
+```plaintext
 ├── public
-│   └── index.html
+|   └── index.html
 ├── src
 │   ├── assets
 │   ├── components
@@ -40,9 +42,9 @@ The project's structure is organized as follows:
 │   │   │   ├── MyOptionSeven.jsx
 │   │   │   ├── MyOptionEight.jsx
 │   │   ├── constants
-│   │   │   ├── ImageConstant.jsx
+│   │   │   └── ImageConstant.jsx
 │   ├── pages
-│   │   ├── Layout.jsx
+│   │   └── Layout.jsx
 │   ├── App.js
 │   ├── index.js
 │   └── styles
