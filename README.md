@@ -26,25 +26,23 @@ The project's structure is organized as follows:
 ├── src
 │   ├── assets
 │   ├── components
-│   │   ├──Layout
-│   │       ├── SideNavIconBar.jsx
-│   │       ├── SideSubNav.jsx
-│   │       ├── UserProfile.jsx
-│   │   ├──Options
-│   │       ├── MyOptionOne.jsx
-│   │       ├── MyOptionTwo.jsx
-│   │       ├── MyOptionThree.jsx
-│   │       ├── MyOptionFour.jsx
-│   │       ├── MyOptionFive.jsx
-│   │       ├── MyOptionSix.jsx
-│   │       ├── MyOptionSeven.jsx
-│   │       ├── MyOptionEight.jsx
+│   │   ├── Layout
+│   │   │   ├── SideNavIconBar.jsx
+│   │   │   ├── SideSubNav.jsx
+│   │   │   ├── UserProfile.jsx
+│   │   ├── Options
+│   │   │   ├── MyOptionOne.jsx
+│   │   │   ├── MyOptionTwo.jsx
+│   │   │   ├── MyOptionThree.jsx
+│   │   │   ├── MyOptionFour.jsx
+│   │   │   ├── MyOptionFive.jsx
+│   │   │   ├── MyOptionSix.jsx
+│   │   │   ├── MyOptionSeven.jsx
+│   │   │   ├── MyOptionEight.jsx
 │   │   ├── constants
-│   │       ├── ImageConstant.jsx
-│   │ 
+│   │   │   ├── ImageConstant.jsx
 │   ├── pages
 │   │   ├── Layout.jsx
-│   │ 
 │   ├── App.js
 │   ├── index.js
 │   └── styles
